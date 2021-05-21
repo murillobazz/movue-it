@@ -1,7 +1,7 @@
 # nuxtlw
 
 Esse projeto foi feito à partir das aulas do professor Rafael Maia (@maiattodev) e é uma aplicação
-de pomodoro com progresso gamificada ao completar os ciclos pomodoro.
+de pomodoro com progresso gamificado ao completar os ciclos pomodoro.
 
 ## Build Setup
 
